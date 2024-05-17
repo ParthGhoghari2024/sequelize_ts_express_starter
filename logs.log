@@ -1,0 +1,410 @@
+[11:07:29.699] [32mINFO[39m (23964): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:07:48.115] [32mINFO[39m (24078): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:07:53.127] [32mINFO[39m (24134): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:09:18.501] [32mINFO[39m (24554): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:09:24.984] [32mINFO[39m (24629): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:09:34.309] [32mINFO[39m (24704): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:10:19.291] [32mINFO[39m (24819): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:10:41.993] [32mINFO[39m (24944): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:10:53.086] [32mINFO[39m (25036): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:12:20.182] [32mINFO[39m (25168): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:14:29.873] [32mINFO[39m (25480): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:14:33.616] [32mINFO[39m (25537): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:14:55.230] [32mINFO[39m (25614): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:15:14.452] [32mINFO[39m (25713): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:15:20.735] [32mINFO[39m (25802): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:15:42.544] [32mINFO[39m (25931): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:16:34.634] [32mINFO[39m (26318): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:16:44.785] [32mINFO[39m (26409): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:22.487] [32mINFO[39m (26601): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:32.188] [32mINFO[39m (26695): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:38.861] [32mINFO[39m (26770): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:42.807] [32mINFO[39m (26810): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:51.103] [32mINFO[39m (26899): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:17:55.474] [32mINFO[39m (26958): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:21:55.417] [32mINFO[39m (27619): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:16.712] [32mINFO[39m (27739): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:24.652] [32mINFO[39m (27834): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:30.487] [32mINFO[39m (27891): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:32.995] [32mINFO[39m (27930): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:42.335] [32mINFO[39m (28003): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:46.997] [32mINFO[39m (28061): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:52.547] [32mINFO[39m (28216): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:22:53.825] [32mINFO[39m (28282): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:23:04.772] [32mINFO[39m (28468): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:23:06.184] [32mINFO[39m (28516): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:33:43.193] [32mINFO[39m (28689): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:33:49.349] [32mINFO[39m (28764): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:33:54.782] [32mINFO[39m (28820): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:34:45.722] [32mINFO[39m (28941): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:35:02.796] [32mINFO[39m (29076): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:35:25.953] [32mINFO[39m (29186): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:35:38.046] [32mINFO[39m (29277): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:36:29.111] [32mINFO[39m (29417): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:37:02.358] [32mINFO[39m (29559): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:37:09.087] [32mINFO[39m (29654): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:37:21.148] [32mINFO[39m (29737): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:37:37.966] [32mINFO[39m (29853): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:38:03.070] [32mINFO[39m (29964): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:38:14.709] [32mINFO[39m (30061): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:38:28.689] [32mINFO[39m (30175): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:38:43.089] [32mINFO[39m (30292): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:39:02.913] [32mINFO[39m (30403): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:39:55.369] [32mINFO[39m (30581): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:40:04.849] [32mINFO[39m (30671): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:40:13.901] [32mINFO[39m (30738): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:43:27.717] [32mINFO[39m (31050): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:44:55.653] [32mINFO[39m (31333): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:46:25.896] [32mINFO[39m (31489): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:47:00.732] [32mINFO[39m (31621): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:47:27.884] [32mINFO[39m (31740): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:47:41.706] [32mINFO[39m (31876): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:48:14.743] [32mINFO[39m (32004): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:49:29.386] [32mINFO[39m (32130): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:49:32.326] [32mINFO[39m (32185): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:50:30.250] [32mINFO[39m (32286): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:57:07.942] [32mINFO[39m (32764): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:57:07.943] [32mINFO[39m (32764): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:57:18.519] [32mINFO[39m (32857): [36mExecuting (default): SELECT 1+1 AS result[39m
+[11:57:18.520] [32mINFO[39m (32857): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:03.004] [32mINFO[39m (33142): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:03.006] [32mINFO[39m (33142): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:10.683] [32mINFO[39m (33237): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:10.685] [32mINFO[39m (33237): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:42.758] [32mINFO[39m (33367): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:50.582] [32mINFO[39m (33459): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:03:53.481] [32mINFO[39m (33509): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:04:01.198] [32mINFO[39m (33605): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:13:16.111] [32mINFO[39m (34127): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:15:13.829] [32mINFO[39m (34416): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:15:15.113] [32mINFO[39m (34478): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:16:51.919] [32mINFO[39m (34618): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:16:55.387] [32mINFO[39m (34677): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:17:01.172] [32mINFO[39m (34734): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:17:19.721] [32mINFO[39m (34814): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:17:24.303] [32mINFO[39m (34873): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:18:26.915] [32mINFO[39m (35065): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:18:45.401] [32mINFO[39m (35177): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:18:54.136] [32mINFO[39m (35272): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:02.803] [32mINFO[39m (35428): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:13.584] [32mINFO[39m (35521): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:18.912] [32mINFO[39m (35578): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:23.257] [32mINFO[39m (35636): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:37.604] [32mINFO[39m (35749): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:40.382] [32mINFO[39m (35804): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:46.021] [32mINFO[39m (35860): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:20:51.114] [32mINFO[39m (35916): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:21:06.383] [32mINFO[39m (35996): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:21:33.991] [32mINFO[39m (36114): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:21:45.548] [32mINFO[39m (36203): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:21:52.769] [32mINFO[39m (36296): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:22:07.010] [32mINFO[39m (36372): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:22:10.702] [32mINFO[39m (36430): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:22:13.745] [32mINFO[39m (36468): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:24:19.888] [32mINFO[39m (36695): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:24:25.205] [32mINFO[39m (36753): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:26:18.664] [32mINFO[39m (36975): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:28:37.577] [32mINFO[39m (37154): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:29:17.630] [32mINFO[39m (37272): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:29:33.307] [32mINFO[39m (37382): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:29:40.080] [32mINFO[39m (37382): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[12:30:20.747] [32mINFO[39m (37559): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:30:20.749] [32mINFO[39m (37559): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:30:20.753] [32mINFO[39m (37559): [36mExecuting (default): CREATE TABLE IF NOT EXISTS `UserModels` (`id` INTEGER auto_increment , `name` VARCHAR(30) NOT NULL, `email` VARCHAR(30) NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `deletedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;[39m
+[12:30:20.762] [32mINFO[39m (37559): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:30:22.691] [32mINFO[39m (37559): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[12:30:36.833] [32mINFO[39m (37686): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:30:38.908] [32mINFO[39m (37686): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[12:30:43.357] [32mINFO[39m (37765): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:30:43.359] [32mINFO[39m (37765): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:30:43.361] [32mINFO[39m (37765): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:31:25.867] [32mINFO[39m (37872): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:31:25.870] [32mINFO[39m (37872): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:31:25.873] [32mINFO[39m (37872): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:31:29.185] [32mINFO[39m (37929): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:31:29.186] [32mINFO[39m (37929): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:31:29.189] [32mINFO[39m (37929): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:31:41.616] [32mINFO[39m (37992): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:31:41.617] [32mINFO[39m (37992): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:31:41.619] [32mINFO[39m (37992): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:32:28.348] [32mINFO[39m (38152): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:32:28.350] [32mINFO[39m (38152): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:32:28.352] [32mINFO[39m (38152): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:32:35.393] [32mINFO[39m (38253): [36mExecuting (default): SELECT 1+1 AS result[39m
+[12:32:35.395] [32mINFO[39m (38253): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[12:32:35.397] [32mINFO[39m (38253): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[12:32:41.348] [32mINFO[39m (38253): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[13:59:16.527] [32mINFO[39m (39825): [36mExecuting (default): SELECT 1+1 AS result[39m
+[13:59:16.528] [32mINFO[39m (39825): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[13:59:16.530] [32mINFO[39m (39825): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[13:59:17.969] [32mINFO[39m (39891): [36mExecuting (default): SELECT 1+1 AS result[39m
+[13:59:17.970] [32mINFO[39m (39891): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[13:59:17.972] [32mINFO[39m (39891): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[13:59:51.015] [32mINFO[39m (40008): [36mExecuting (default): SELECT 1+1 AS result[39m
+[13:59:51.016] [32mINFO[39m (40008): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[13:59:51.018] [32mINFO[39m (40008): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[13:59:57.696] [32mINFO[39m (40112): [36mExecuting (default): SELECT 1+1 AS result[39m
+[13:59:57.699] [32mINFO[39m (40112): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[13:59:57.701] [32mINFO[39m (40112): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:00:02.548] [32mINFO[39m (40156): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:00:02.549] [32mINFO[39m (40156): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:00:02.551] [32mINFO[39m (40156): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:00:06.771] [32mINFO[39m (40211): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:00:06.773] [32mINFO[39m (40211): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:00:06.774] [32mINFO[39m (40211): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:00:10.932] [32mINFO[39m (40278): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:00:10.934] [32mINFO[39m (40278): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:00:10.936] [32mINFO[39m (40278): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:01:26.926] [32mINFO[39m (40756): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:01:26.929] [32mINFO[39m (40756): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:01:26.931] [32mINFO[39m (40756): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:01:39.490] [32mINFO[39m (40926): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:01:39.492] [32mINFO[39m (40926): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:01:39.494] [32mINFO[39m (40926): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:01:40.936] [32mINFO[39m (40977): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:01:40.938] [32mINFO[39m (40977): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:01:40.941] [32mINFO[39m (40977): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:02:56.827] [32mINFO[39m (41094): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:02:56.829] [32mINFO[39m (41094): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:02:56.831] [32mINFO[39m (41094): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:02:58.302] [32mINFO[39m (41172): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:02:58.305] [32mINFO[39m (41172): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:02:58.307] [32mINFO[39m (41172): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:03:02.777] [32mINFO[39m (41239): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:03:02.778] [32mINFO[39m (41239): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:03:02.780] [32mINFO[39m (41239): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:03:21.970] [32mINFO[39m (41350): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:03:21.971] [32mINFO[39m (41350): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:03:21.973] [32mINFO[39m (41350): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:03:33.266] [32mINFO[39m (41443): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:03:33.268] [32mINFO[39m (41443): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:03:33.269] [32mINFO[39m (41443): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:05:29.397] [32mINFO[39m (41797): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:05:29.399] [32mINFO[39m (41797): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:05:29.400] [32mINFO[39m (41797): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:07:07.304] [32mINFO[39m (41797): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:08:12.260] [32mINFO[39m (42048): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:08:12.262] [32mINFO[39m (42048): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:08:12.263] [32mINFO[39m (42048): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:08:21.879] [32mINFO[39m (42139): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:08:21.881] [32mINFO[39m (42139): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:08:21.883] [32mINFO[39m (42139): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:08:34.239] [32mINFO[39m (42231): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:08:34.241] [32mINFO[39m (42231): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:08:34.242] [32mINFO[39m (42231): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:08:53.569] [32mINFO[39m (42348): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:08:53.571] [32mINFO[39m (42348): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:08:53.573] [32mINFO[39m (42348): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:09:24.210] [32mINFO[39m (42499): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:09:24.211] [32mINFO[39m (42499): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:09:24.213] [32mINFO[39m (42499): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:09:36.073] [32mINFO[39m (42594): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:09:36.074] [32mINFO[39m (42594): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:09:36.077] [32mINFO[39m (42594): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:09:52.889] [32mINFO[39m (42707): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:09:52.890] [32mINFO[39m (42707): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:09:52.892] [32mINFO[39m (42707): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:10:00.116] [32mINFO[39m (42804): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:10:00.119] [32mINFO[39m (42804): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:10:00.121] [32mINFO[39m (42804): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:10:08.850] [32mINFO[39m (42862): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:10:08.852] [32mINFO[39m (42862): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:10:08.853] [32mINFO[39m (42862): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:10:35.815] [32mINFO[39m (42994): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:10:35.817] [32mINFO[39m (42994): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:10:35.818] [32mINFO[39m (42994): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:11:08.935] [32mINFO[39m (43132): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:11:08.936] [32mINFO[39m (43132): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:11:08.938] [32mINFO[39m (43132): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:11:32.022] [32mINFO[39m (43276): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:11:32.023] [32mINFO[39m (43276): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:11:32.025] [32mINFO[39m (43276): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:11:37.359] [32mINFO[39m (43340): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:11:37.361] [32mINFO[39m (43340): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:11:37.362] [32mINFO[39m (43340): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:12:25.838] [32mINFO[39m (43340): [36mExecuting (default): INSERT INTO `UserModels` (`id`,`name`,`email`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?);[39m
+[14:12:29.229] [32mINFO[39m (43340): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:14:54.653] [32mINFO[39m (43578): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:14:54.655] [32mINFO[39m (43578): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:14:54.656] [32mINFO[39m (43578): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:15:05.091] [32mINFO[39m (43667): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:15:05.093] [32mINFO[39m (43667): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:15:05.094] [32mINFO[39m (43667): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:15:15.477] [32mINFO[39m (43766): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:15:15.479] [32mINFO[39m (43766): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:15:15.481] [32mINFO[39m (43766): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:15:42.531] [32mINFO[39m (43879): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:15:42.532] [32mINFO[39m (43879): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:15:42.534] [32mINFO[39m (43879): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:16:21.861] [32mINFO[39m (44006): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:16:21.862] [32mINFO[39m (44006): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:16:21.864] [32mINFO[39m (44006): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:16:54.734] [32mINFO[39m (44120): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:16:54.736] [32mINFO[39m (44120): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:16:54.738] [32mINFO[39m (44120): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:17:04.359] [32mINFO[39m (44212): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:17:04.361] [32mINFO[39m (44212): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:17:04.362] [32mINFO[39m (44212): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:17:10.517] [32mINFO[39m (44271): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:17:10.519] [32mINFO[39m (44271): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:17:10.521] [32mINFO[39m (44271): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:17:15.213] [32mINFO[39m (44329): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:17:15.215] [32mINFO[39m (44329): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:17:15.216] [32mINFO[39m (44329): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:18:09.238] [32mINFO[39m (44537): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:18:09.240] [32mINFO[39m (44537): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:18:09.242] [32mINFO[39m (44537): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:20:00.261] [32mINFO[39m (44537): [36mExecuting (default): UPDATE `UserModels` SET `deletedAt`=? WHERE `deletedAt` IS NULL AND `id` = ?[39m
+[14:20:04.591] [32mINFO[39m (44537): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:20:07.339] [32mINFO[39m (44537): [36mExecuting (default): INSERT INTO `UserModels` (`id`,`name`,`email`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?);[39m
+[14:20:10.894] [32mINFO[39m (44537): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `UserModels` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:20:56.929] [32mINFO[39m (44953): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:20:56.931] [32mINFO[39m (44953): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:20:56.933] [32mINFO[39m (44953): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:21:41.894] [32mINFO[39m (45178): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:21:41.896] [32mINFO[39m (45178): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:21:41.898] [32mINFO[39m (45178): [36mExecuting (default): CREATE TABLE IF NOT EXISTS `Users` (`id` INTEGER auto_increment , `name` VARCHAR(30) NOT NULL, `email` VARCHAR(30) NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `deletedAt` DATETIME, PRIMARY KEY (`id`)) ENGINE=InnoDB;[39m
+[14:21:41.906] [32mINFO[39m (45178): [36mExecuting (default): SHOW INDEX FROM `Users`[39m
+[14:21:45.615] [32mINFO[39m (45235): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:21:45.616] [32mINFO[39m (45235): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:21:45.618] [32mINFO[39m (45235): [36mExecuting (default): SHOW INDEX FROM `Users`[39m
+[14:21:55.733] [32mINFO[39m (45298): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:21:55.735] [32mINFO[39m (45298): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserModels' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:21:55.736] [32mINFO[39m (45298): [36mExecuting (default): SHOW INDEX FROM `UserModels`[39m
+[14:22:03.951] [32mINFO[39m (45391): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:22:03.953] [32mINFO[39m (45391): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:22:03.954] [32mINFO[39m (45391): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:22:14.043] [32mINFO[39m (45391): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:22:48.816] [32mINFO[39m (45391): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:22:52.268] [32mINFO[39m (45643): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:22:52.269] [32mINFO[39m (45643): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:22:52.271] [32mINFO[39m (45643): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:22:54.153] [32mINFO[39m (45643): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:24:48.035] [32mINFO[39m (45643): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:26:00.503] [32mINFO[39m (46144): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:26:00.505] [32mINFO[39m (46144): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:26:00.507] [32mINFO[39m (46144): [36mExecuting (default): SHOW FULL COLUMNS FROM `users`;[39m
+[14:26:00.508] [32mINFO[39m (46144): [36mExecuting (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'users' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='sequalize_prac' AND REFERENCED_TABLE_NAME IS NOT NULL;[39m
+[14:26:00.512] [32mINFO[39m (46144): [36mExecuting (default): ALTER TABLE `users` ADD `deletedAt` DATETIME;[39m
+[14:26:00.523] [32mINFO[39m (46144): [36mExecuting (default): ALTER TABLE `users` CHANGE `name` `name` VARCHAR(30) NOT NULL;[39m
+[14:26:00.529] [32mINFO[39m (46144): [36mExecuting (default): ALTER TABLE `users` CHANGE `email` `email` VARCHAR(30) NOT NULL;[39m
+[14:26:00.535] [32mINFO[39m (46144): [36mExecuting (default): ALTER TABLE `users` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;[39m
+[14:26:00.541] [32mINFO[39m (46144): [36mExecuting (default): ALTER TABLE `users` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;[39m
+[14:26:00.547] [32mINFO[39m (46144): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:26:04.366] [32mINFO[39m (46144): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[14:26:17.242] [32mINFO[39m (46258): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:26:17.243] [32mINFO[39m (46258): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:26:17.245] [32mINFO[39m (46258): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:34:29.710] [32mINFO[39m (46646): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:34:41.997] [32mINFO[39m (46739): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:34:41.999] [32mINFO[39m (46739): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:34:42.000] [32mINFO[39m (46739): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:34:43.984] [32mINFO[39m (46777): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:34:43.985] [32mINFO[39m (46777): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:34:43.987] [32mINFO[39m (46777): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:39:02.689] [32mINFO[39m (46951): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:39:02.691] [32mINFO[39m (46951): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:39:02.692] [32mINFO[39m (46951): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:39:11.348] [32mINFO[39m (47061): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:39:11.349] [32mINFO[39m (47061): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:39:11.351] [32mINFO[39m (47061): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:39:13.082] [32mINFO[39m (47081): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:39:13.084] [32mINFO[39m (47081): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:39:13.085] [32mINFO[39m (47081): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:39:42.349] [32mINFO[39m (47227): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:39:42.351] [32mINFO[39m (47227): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[14:39:42.353] [32mINFO[39m (47227): [36mExecuting (default): SHOW INDEX FROM `users`[39m
+[14:40:04.166] [32mINFO[39m (47358): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:40:12.198] [32mINFO[39m (47451): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:41:39.297] [32mINFO[39m (47576): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:41:40.422] [32mINFO[39m (47643): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:41:45.119] [32mINFO[39m (47681): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:42:09.016] [32mINFO[39m (47814): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:43:35.770] [32mINFO[39m (48146): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:43:52.292] [32mINFO[39m (48291): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:43:55.304] [32mINFO[39m (48366): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:44:02.715] [32mINFO[39m (48427): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:44:03.250] [32mINFO[39m (48442): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:44:03.787] [32mINFO[39m (48478): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:44:22.308] [32mINFO[39m (48603): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:44:24.443] [32mINFO[39m (48671): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:45:07.547] [32mINFO[39m (48794): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:45:50.271] [32mINFO[39m (48923): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:45:52.431] [32mINFO[39m (48979): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:56:55.544] [32mINFO[39m (49458): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:57:42.438] [32mINFO[39m (49613): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:57:43.588] [32mINFO[39m (49669): [36mExecuting (default): SELECT 1+1 AS result[39m
+[14:58:14.232] [32mINFO[39m (49777): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:01:40.255] [32mINFO[39m (49777): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[15:01:43.090] [32mINFO[39m (49777): [36mExecuting (default): INSERT INTO `users` (`id`,`name`,`email`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?);[39m
+[15:01:45.232] [32mINFO[39m (49777): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[15:10:07.501] [32mINFO[39m (50112): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:10:08.919] [32mINFO[39m (50179): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:10:11.253] [32mINFO[39m (50239): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:11:55.104] [32mINFO[39m (50650): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:12:07.331] [32mINFO[39m (50789): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:12:26.404] [32mINFO[39m (50898): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:15:06.558] [32mINFO[39m (51090): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:16:39.268] [32mINFO[39m (51215): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:16:43.669] [32mINFO[39m (51278): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:17:52.868] [32mINFO[39m (51405): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:17:55.672] [32mINFO[39m (51460): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:18:38.399] [32mINFO[39m (51570): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:18:42.025] [32mINFO[39m (51631): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:18:53.375] [32mINFO[39m (51689): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:19:56.260] [32mINFO[39m (51821): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:21:45.157] [32mINFO[39m (52099): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:21:48.238] [32mINFO[39m (52154): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:21:51.225] [32mINFO[39m (52177): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:22:18.867] [32mINFO[39m (52327): [36mExecuting (default): SELECT 1+1 AS result[39m
+[15:26:52.623] [32mINFO[39m (52327): [36mExecuting (default): UPDATE `users` SET `deletedAt`=? WHERE `deletedAt` IS NULL AND `id` = ?[39m
+[17:28:59.751] [32mINFO[39m (62980): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[17:29:03.623] [32mINFO[39m (62980): [36mExecuting (default): INSERT INTO `users` (`id`,`name`,`email`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?);[39m
+[18:20:16.014] [32mINFO[39m (74329): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[18:20:32.518] [32mINFO[39m (74444): [36mExecuting (default): SELECT `id`, `name`, `email`, `createdAt`, `updatedAt`, `deletedAt` FROM `users` AS `UserModel` WHERE (`UserModel`.`deletedAt` IS NULL);[39m
+[18:35:44.526] [32mINFO[39m (76634): [36mExecuting (default): SELECT 1+1 AS result[39m
+[18:35:44.528] [32mINFO[39m (76634): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_SCHEMA = 'sequalize_prac';[39m
+[18:35:44.530] [32mINFO[39m (76634): [36mExecuting (default): SHOW FULL COLUMNS FROM `SequelizeMeta`;[39m
+[18:35:44.533] [32mINFO[39m (76634): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:35:44.534] [32mINFO[39m (76634): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:35:44.540] [32mINFO[39m (76634): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:35:44.545] [32mINFO[39m (76634): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:35:44.546] [32mINFO[39m (76634): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:35:44.547] [32mINFO[39m (76634): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:38:02.357] [32mINFO[39m (77126): [36mExecuting (default): SELECT 1+1 AS result[39m
+[18:38:02.359] [32mINFO[39m (77126): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_SCHEMA = 'sequalize_prac';[39m
+[18:38:02.361] [32mINFO[39m (77126): [36mExecuting (default): SHOW FULL COLUMNS FROM `SequelizeMeta`;[39m
+[18:38:02.364] [32mINFO[39m (77126): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:38:02.365] [32mINFO[39m (77126): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:38:02.369] [32mINFO[39m (77126): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:38:02.374] [32mINFO[39m (77126): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:38:02.375] [32mINFO[39m (77126): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:38:02.377] [32mINFO[39m (77126): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:40.664] [32mINFO[39m (80805): [36mExecuting (default): SELECT 1+1 AS result[39m
+[18:50:40.666] [32mINFO[39m (80805): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_SCHEMA = 'sequalize_prac';[39m
+[18:50:40.668] [32mINFO[39m (80805): [36mExecuting (default): SHOW FULL COLUMNS FROM `SequelizeMeta`;[39m
+[18:50:40.673] [32mINFO[39m (80805): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:40.675] [32mINFO[39m (80805): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:40.679] [32mINFO[39m (80805): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:40.684] [32mINFO[39m (80805): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:40.685] [32mINFO[39m (80805): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:40.687] [32mINFO[39m (80805): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:40.689] [32mINFO[39m (80805): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:40.690] [32mINFO[39m (80805): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:40.691] [32mINFO[39m (80805): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:51.381] [32mINFO[39m (80922): [36mExecuting (default): SELECT 1+1 AS result[39m
+[18:50:51.383] [32mINFO[39m (80922): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_SCHEMA = 'sequalize_prac';[39m
+[18:50:51.385] [32mINFO[39m (80922): [36mExecuting (default): SHOW FULL COLUMNS FROM `SequelizeMeta`;[39m
+[18:50:51.391] [32mINFO[39m (80922): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:51.392] [32mINFO[39m (80922): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:51.397] [32mINFO[39m (80922): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:51.400] [32mINFO[39m (80922): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:51.401] [32mINFO[39m (80922): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:51.402] [32mINFO[39m (80922): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:51.405] [32mINFO[39m (80922): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:51.406] [32mINFO[39m (80922): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:51.407] [32mINFO[39m (80922): [36mExecuting (default): SELECT `name` FROM `SequelizeMeta` AS `SequelizeMeta` ORDER BY `SequelizeMeta`.`name` ASC;[39m
+[18:50:51.410] [32mINFO[39m (80922): [36mExecuting (default): CREATE TABLE IF NOT EXISTS `UserModels` (`id` INTEGER auto_increment , `name` VARCHAR(30) NOT NULL, `email` VARCHAR(30) NOT NULL, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, `deletedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;[39m
+[18:50:51.418] [32mINFO[39m (80922): [36mExecuting (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'SequelizeMeta' AND TABLE_SCHEMA = 'sequalize_prac'[39m
+[18:50:51.420] [32mINFO[39m (80922): [36mExecuting (default): SHOW INDEX FROM `SequelizeMeta`[39m
+[18:50:51.425] [32mINFO[39m (80922): [36mExecuting (default): INSERT INTO `SequelizeMeta` (`name`) VALUES (?);[39m
